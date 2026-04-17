@@ -14,7 +14,11 @@ namespace tteqwtqwr
 	{
 		public static void Main(string[] args)
 		{
+<<<<<<< HEAD
 			Console.WriteLine("Hello WorlGSDSDGSDd!");
+=======
+			Console.WriteLine("PROYECTO SECCION B");
+>>>>>>> 9a83543bb7e1e471cd7562ad018e6e3fcaf716f8
 			
 			// TODO: Implement Functionality Here
 			
