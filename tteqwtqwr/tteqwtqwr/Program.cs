@@ -14,7 +14,7 @@ namespace tteqwtqwr
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello WorlGSDSDGSDd!");
 			
 			// TODO: Implement Functionality Here
 			
