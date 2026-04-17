@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\TALLER SECCION B\wetetwy\wetetwy\bin\Debug\wetetwy.exe
+C:\Users\usuario\Desktop\TALLER SECCION B\wetetwy\wetetwy\bin\Debug\wetetwy.pdb
+C:\Users\usuario\Desktop\TALLER SECCION B\wetetwy\wetetwy\obj\Debug\wetetwy.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\TALLER SECCION B\wetetwy\wetetwy\obj\Debug\wetetwy.exe
+C:\Users\usuario\Desktop\TALLER SECCION B\wetetwy\wetetwy\obj\Debug\wetetwy.pdb
