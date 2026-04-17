@@ -14,7 +14,7 @@ namespace tteqwtqwr
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("PROYECTO SECCION B");
 			
 			// TODO: Implement Functionality Here
 			
